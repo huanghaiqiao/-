@@ -13,6 +13,10 @@
 - 协议层，像素/字节打包/解包层
 - 物理层，输入/输出电路信号的电气特性（electricalparameters）和时钟机制（时序）
 
+附：
+
+1、[CSI-2视频资料-1](https://www.bilibili.com/video/BV1Qv411k7j4/?spm_id_from=333.337.search-card.all.click&vd_source=c8569a8ede793684fdee2d887f232dd6)
+
 ### 二、信号
 
 1、差分信号
