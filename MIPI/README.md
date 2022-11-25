@@ -17,6 +17,8 @@
 
 1、[CSI-2视频资料-1](https://www.bilibili.com/video/BV1Qv411k7j4/?spm_id_from=333.337.search-card.all.click&vd_source=c8569a8ede793684fdee2d887f232dd6)
 
+2、[CSI-2视频资料-2](https://www.bilibili.com/video/BV1ne4y127mN/?spm_id_from=333.788.recommend_more_video.-1&vd_source=c8569a8ede793684fdee2d887f232dd6)
+
 ### 二、信号
 
 1、差分信号
