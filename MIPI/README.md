@@ -17,8 +17,8 @@
 
 1、差分信号
 
-![差分](C:\Users\haiqiaox\OneDrive - Intel Corporation\Desktop\new.assets\差分信号.jpg)
+![差分](https://github.com/huanghaiqiao/embed/blob/main/MIPI/%E5%B7%AE%E5%88%86%E4%BF%A1%E5%8F%B7.jpg)
 
 2、单端信号
 
-![单端](C:\Users\haiqiaox\OneDrive - Intel Corporation\Desktop\new.assets\单信号.jpg)
+![单端](https://github.com/huanghaiqiao/embed/blob/main/MIPI/%E5%8D%95%E4%BF%A1%E5%8F%B7.jpg)
