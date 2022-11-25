@@ -1,6 +1,6 @@
 ### 一、简介
 
-1、[mipi介绍](https://zhuanlan.zhihu.com/p/92682047)
+1、[mipi知乎简介](https://zhuanlan.zhihu.com/p/92682047)
 
 2、mipi是一套协议和标准，以满足各种子系统独特的要求，包含以下
 
@@ -12,3 +12,13 @@
 - 应用层，主要描述了上层数据流中的数据编码和解析
 - 协议层，像素/字节打包/解包层
 - 物理层，输入/输出电路信号的电气特性（electricalparameters）和时钟机制（时序）
+
+### 二、信号
+
+1、差分信号
+
+![差分](C:\Users\haiqiaox\OneDrive - Intel Corporation\Desktop\new.assets\差分信号.jpg)
+
+2、单端信号
+
+![单端](C:\Users\haiqiaox\OneDrive - Intel Corporation\Desktop\new.assets\单信号.jpg)
