@@ -5,6 +5,8 @@
 
 [Win11右键自动展开二级](https://www.xitongzhijia.net/xtjc/20220705/246460.html)
 
+串口通讯到电脑，注意只能连接一个软件
+
 
 ```
 @echo off
