@@ -1,3 +1,7 @@
+wsl 固定ip 方法 一劳永逸
+
+[(43条消息) wsl 固定ip 方法 一劳永逸_奋斗的烧饵块的博客-CSDN博客_wsl固定ip](https://blog.csdn.net/u011843342/article/details/127581604)
+
 ```
 @echo off
 :: 管理员权限运行bat
