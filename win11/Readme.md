@@ -1,6 +1,7 @@
-wsl 固定ip 方法 一劳永逸
 
-[(43条消息) wsl 固定ip 方法 一劳永逸_奋斗的烧饵块的博客-CSDN博客_wsl固定ip](https://blog.csdn.net/u011843342/article/details/127581604)
+[wsl固定ip方法](https://blog.csdn.net/u011843342/article/details/127581604)
+[win11增加打开方式](https://xinzhi.wenda.so.com/a/1661149622200014)
+[Win11右键自动展开二级](https://www.xitongzhijia.net/xtjc/20220705/246460.html)
 
 ```
 @echo off
