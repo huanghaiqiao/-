@@ -7,7 +7,7 @@
 
 串口通讯到电脑，注意只能连接一个软件
 
-
+wsl固定ip脚本
 ```
 @echo off
 :: 管理员权限运行bat
@@ -37,5 +37,36 @@ setlocal enabledelayedexpansion
         echo set wsl ip success: 172.28.131.101
     )
  
+pause
+```
+wsl映射脚本
+```
+@echo off
+usbipd wsl list
+for /f "tokens=1" %%a in ('usbipd wsl list^|findstr JTAG') do (
+    set BUSID=%%a
+)
+
+for /f "tokens=11" %%a in ('usbipd wsl list^|findstr JTAG') do (
+    set STATUS=%%a
+)
+
+
+if "%BUSID%" == "" ( 
+    echo 请检查你的JTAG线！！！
+) else (
+    if "%STATUS%" == "Not" (
+        usbipd wsl attach --busid %BUSID%
+        usbipd wsl list
+    ) else (
+        echo Olimex OpenOCD JTAG have Attached
+    )
+)
+mode | findstr COM
+echo ------------------
+echo 参考一下命令:
+echo usbipd wsl list
+echo usbipd wsl attach --busid 2-2
+echo usbipd wsl detach --all
 pause
 ```
